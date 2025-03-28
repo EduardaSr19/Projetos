@@ -31,7 +31,7 @@ Outra variação de página de login, focada em um layout minimalista e acessív
 ## 📥 Como Usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/EduardaSr19/Projetos.git
    ```
 2. Navegue até o diretório desejado e abra os arquivos no navegador ou em um editor de código.
 
